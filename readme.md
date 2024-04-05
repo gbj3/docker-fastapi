@@ -1,2 +1,2 @@
 <h1>SCREENSHOT</h1>
-<img src="./docker.png" />
+<img src="./docker.png" >
